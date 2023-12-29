@@ -9,6 +9,6 @@
 - CSS - for styling, that includes float and position for layout. float is used to place the elements(left or right) within the container, position is used for the placement of the elements within the webpage where ever we want.
 
 #How to Run
-1. Clone the repository to your local machine. git clone https://github.com/swarnalatha22/html-css-javascript/tree/81e32922f2756551cd41d013ab0f731ed36559f8/Challenge_2
+1. Clone the repository to your local machine. Use the command: git clone https://github.com/swarnalatha22/html-css-javascript.git
 2. Or else follow the link provided(Codepen uploaded).
    Click https://codepen.io/Swarnalatha-Tirumalasetti/pen/poYJoXG
