@@ -13,5 +13,5 @@
 
 #How to run
 - Clone this git repository for your local system.
-  git clone https://github.com/swarnalatha22/html-css-javascript/tree/356fea3aa49a4dba3ade767b8922ed42c0226be3/Challenge_3
+  git clone https://github.com/swarnalatha22/html-css-javascript.git
 - Or Follow the provided link(from codepen). Click https://codepen.io/Swarnalatha-Tirumalasetti/pen/MWxwQOp
