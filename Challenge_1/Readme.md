@@ -13,4 +13,4 @@
 #How to Run
   1. Clone the repository to your loacal machine.
      git clone https://github.com/swarnalatha22/html-css-javascript.git
-  2.
+  2. For 2nd way follow this link(from codepen) -> https://codepen.io/Swarnalatha-Tirumalasetti/pen/YzBvXbv. Note: This view doesn't contains the background image, as codepen needs subscription to add our own assets.
