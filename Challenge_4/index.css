@@ -1,0 +1,35 @@
+.container1{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    margin-bottom: 40px;
+    margin: 15px;
+}
+
+.text{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.read{
+    text-align: center;
+    color: white;
+    background-color:rgb(217, 165, 33, 0.8);
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.shadow{
+    box-shadow: 4px 4px 10px 2px #ccc;;
+}
