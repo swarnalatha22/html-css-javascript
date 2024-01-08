@@ -10,4 +10,4 @@ HAPPPY NEW YEAR 2024
 #How to run
 - clone the repository.
   or
-- Follow the codepen link. https://codepen.io/Swarnalatha-Tirumalasetti/pen/VwRagwK
+- Follow the codepen link. https://codepen.io/Swarnalatha-Tirumalasetti/pen/VwRagwK (Background image is ommitted in preview as it needs subscription for our own assets.)
