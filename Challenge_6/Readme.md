@@ -16,3 +16,14 @@
     JavaScript : To give dynamic nature to the webpage by using javascript events & DOM
   </li>
 </ul>
+
+#How to run <br>
+<ol>
+  <li>
+    clone this github repository
+  </li>
+  <li>
+    Follow the given link. <br>
+    https://codepen.io/Swarnalatha-Tirumalasetti/pen/rNRPaBy
+  </li>
+</ol>
