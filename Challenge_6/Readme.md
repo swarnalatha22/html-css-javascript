@@ -22,6 +22,7 @@
   <li>
     clone this github repository
   </li>
+  or
   <li>
     Follow the given link. <br>
     https://codepen.io/Swarnalatha-Tirumalasetti/pen/rNRPaBy
