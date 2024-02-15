@@ -1,0 +1,17 @@
+span{
+    font-weight: bolder; 
+    font-size: large;
+}
+
+h1{
+    font-weight: bolder;
+    text-shadow: 1px 1px 2px grey;
+}
+
+select[name="countryCode"] {
+    height: 30px;
+}
+
+#tbl td {
+    padding: 0px 12px ;
+}
